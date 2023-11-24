@@ -1,6 +1,6 @@
 name: serp_smart_select
 description: Easily convert your usual single/multiple select or dropdown into page, dialog, or bottom sheet with various choice input such as radio, checkbox, switch, chips, or custom widget.
-homepage: https://github.com/akbarpulatov/flutter_smart_select
+homepage: https://github.com/kieulan1912/smart_select
 version: 1.0.0
 
 environment:
